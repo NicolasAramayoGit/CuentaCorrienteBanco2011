@@ -1,0 +1,6 @@
+D:\ARAMAYO_NICOLAS\UTN\Segundo Cuatrimestre\Laboratorio II\CuentaCorrienteBanco2011\CuentaCorrienteBanco2011\bin\Debug\CuentaCorrienteBanco2011.exe.config
+D:\ARAMAYO_NICOLAS\UTN\Segundo Cuatrimestre\Laboratorio II\CuentaCorrienteBanco2011\CuentaCorrienteBanco2011\obj\Debug\CuentaCorrienteBanco2011.csprojResolveAssemblyReference.cache
+D:\ARAMAYO_NICOLAS\UTN\Segundo Cuatrimestre\Laboratorio II\CuentaCorrienteBanco2011\CuentaCorrienteBanco2011\bin\Debug\CuentaCorrienteBanco2011.exe
+D:\ARAMAYO_NICOLAS\UTN\Segundo Cuatrimestre\Laboratorio II\CuentaCorrienteBanco2011\CuentaCorrienteBanco2011\bin\Debug\CuentaCorrienteBanco2011.pdb
+D:\ARAMAYO_NICOLAS\UTN\Segundo Cuatrimestre\Laboratorio II\CuentaCorrienteBanco2011\CuentaCorrienteBanco2011\obj\Debug\CuentaCorrienteBanco2011.exe
+D:\ARAMAYO_NICOLAS\UTN\Segundo Cuatrimestre\Laboratorio II\CuentaCorrienteBanco2011\CuentaCorrienteBanco2011\obj\Debug\CuentaCorrienteBanco2011.pdb
